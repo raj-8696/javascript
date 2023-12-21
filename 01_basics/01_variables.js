@@ -16,3 +16,11 @@ console.table([accoundId, accountEmail, accountPassword, accountCity, accoundSta
  * becouse issue in block scope and functional scope
  */
 
+const id = 1;
+let name = "Rajnish Sharma";
+var age = 22;
+let city;
+state = "Bihar";
+
+
+
